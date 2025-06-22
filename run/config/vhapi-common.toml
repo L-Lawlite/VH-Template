@@ -1,0 +1,5 @@
+
+["Main Settings"]
+	#List of resource locations that should not be loaded via VHAPI.
+	disabledConfigs = []
+

@@ -1,0 +1,84 @@
+{
+  "LEVELS": [
+    {
+      "MIN_LEVEL": 0,
+      "ALTAR": "the_vault:altar/altar_0",
+      "COMPLETION_CRATE": {
+        "boss": "the_vault:base_crate_0",
+        "scavenger": "the_vault:base_crate_2_0",
+        "cake": "the_vault:cake_crate",
+        "monolith": "the_vault:base_crate_0",
+        "elixir": "the_vault:base_crate_0",
+        "paradox": "the_vault:completion_paradox",
+        "bingo": "the_vault:base_crate_0",
+        "bingo_full": "the_vault:bingo_full_crate",
+        "rune_boss": "the_vault:base_crate_0"
+      },
+      "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
+      "CHAMPION": "the_vault:champion_loot_lvl0",
+      "RUNES_LOOT": "the_vault:rune_loot_0",
+      "TREASURE_GOBLIN": "the_vault:entities/lvl0/treasure_goblin",
+      "ARTIFACT_CHANCE": 0.00
+    },
+    {
+      "MIN_LEVEL": 5,
+      "ALTAR": "the_vault:altar/altar_5",
+      "COMPLETION_CRATE": {
+        "boss": "the_vault:base_crate_0",
+        "scavenger": "the_vault:base_crate_2_0",
+        "cake": "the_vault:cake_crate",
+        "monolith": "the_vault:base_crate_0",
+        "elixir": "the_vault:base_crate_0",
+        "paradox": "the_vault:completion_paradox",
+        "bingo": "the_vault:base_crate_0",
+        "bingo_full": "the_vault:bingo_full_crate",
+        "rune_boss": "the_vault:base_crate_0"
+      },
+      "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
+      "CHAMPION": "the_vault:champion_loot_lvl0",
+      "RUNES_LOOT": "the_vault:rune_loot_0",
+      "TREASURE_GOBLIN": "the_vault:entities/lvl0/treasure_goblin",
+      "ARTIFACT_CHANCE": 0.0
+    },
+    {
+      "MIN_LEVEL": 20,
+      "ALTAR": "the_vault:altar/altar_25",
+      "COMPLETION_CRATE": {
+        "boss": "the_vault:base_crate_20",
+        "scavenger": "the_vault:base_crate_2_20",
+        "cake": "the_vault:cake_crate",
+        "monolith": "the_vault:base_crate_20",
+        "elixir": "the_vault:base_crate_20",
+        "paradox": "the_vault:completion_paradox",
+        "bingo": "the_vault:base_crate_20",
+        "bingo_full": "the_vault:bingo_full_crate",
+        "rune_boss": "the_vault:base_crate_0"
+      },
+      "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
+      "CHAMPION": "the_vault:champion_loot_lvl20",
+      "RUNES_LOOT": "the_vault:rune_loot_0",
+      "TREASURE_GOBLIN": "the_vault:entities/lvl0/treasure_goblin",
+      "ARTIFACT_CHANCE": 0.05
+    },
+    {
+      "MIN_LEVEL": 50,
+      "ALTAR": "the_vault:altar/altar_25",
+      "COMPLETION_CRATE": {
+        "boss": "the_vault:base_crate_50",
+        "scavenger": "the_vault:base_crate_3_50",
+        "cake": "the_vault:cake_crate",
+        "monolith": "the_vault:brazier_crate_50",
+        "elixir": "the_vault:base_crate_50",
+        "paradox": "the_vault:completion_paradox",
+        "bingo": "the_vault:base_crate_50",
+        "bingo_full": "the_vault:bingo_bonus",
+        "rune_boss": "the_vault:base_crate_0"
+      },
+      "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
+      "CHAMPION": "the_vault:champion_loot_lvl50",
+      "RUNES_LOOT": "the_vault:rune_loot_50",
+      "TREASURE_GOBLIN": "the_vault:entities/lvl0/treasure_goblin",
+      "ARTIFACT_CHANCE": 0.2
+    }
+  ]
+}
